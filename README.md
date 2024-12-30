@@ -5,7 +5,7 @@
 # Desafíos de JavaScript FullStack
 </div>
 
-<p style="text-align: justify;">Este repositorio es una guía completa para dominar el desarrollo **FullStack** con el stack **PERN** de *JavaScript*. Aquí encontrarás una amplia gama de proyectos, desde aplicaciones Web robustas construidas con el stack completo **PERN** hasta aplicaciones móviles nativas desarrolladas con **React Native** y **TypeScript**. Desde los fundamentos hasta desafíos avanzados, cada proyecto proporcionará una experiencia práctica para construir aplicaciones Web y móviles de alta calidad y escalabilidad, aprovechando los beneficios de TypeScript para una mayor seguridad de tipos y refactorización.
+<p style="text-align: justify;">Este repositorio es una guía completa para dominar el desarrollo <b>FullStack</b> con el stack <b>PERN</b> de <em>JavaScript</em>. Aquí encontrarás una amplia gama de proyectos, desde aplicaciones Web robustas construidas con el stack completo <b>PERN</b> hasta aplicaciones móviles nativas desarrolladas con <b>React Native</b> y <b>TypeScript</b>. Desde los fundamentos hasta desafíos avanzados, cada proyecto proporcionará una experiencia práctica para construir aplicaciones Web y móviles de alta calidad y escalabilidad, aprovechando los beneficios de TypeScript para una mayor seguridad de tipos y refactorización.
 </p>
 
 ### 📋 Requisitos
@@ -25,7 +25,7 @@ Por ejemplo, para ejecutar un ejemplo llamado arrays_methods.js, use:
 ```bash
 node arrays_methods.js
 ```
-## 📚 Códigos de ejemplo básicos con sintaxis ES6 moderna
+## 📚 Código de ejemplos básicos con sintaxis ES6 moderna
 
 | # | Contenido | Código |
 | --- | --- | --- |
