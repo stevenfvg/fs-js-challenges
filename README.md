@@ -40,3 +40,13 @@ node arrays_methods.js
 | `09` | Estructuras de control | [view](web/example/control_structures.js) |
 | `10` | Iteradores | [view](web/example/iterators.js) |
 | `11` | Arrays Métodos | [view](web/example/arrays_methods.js) |
+
+**Ejemplos básicos del DOM**
+
+| # | Contenido | Código |
+| --- | --- | --- |
+| `01` | Obtener elementos del DOM | [view](web/example/dom/js/get_elements.js) |
+| `02` | Modificar elementos DOM | [view](web/example/dom/js/modify_elements.js) |
+| `03` | Recorriendo el DOM | [view](web/example/dom/js/traversing.js) |
+| `04` | Eliminar elementos del DOM | [view](web/example/dom/js/remove_elements.js) |
+| `05` | Generar HTML con JavaScript | [view](web/example/dom/js/generate_elements.js) |
