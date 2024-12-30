@@ -31,12 +31,12 @@ node arrays_methods.js
 | --- | --- | --- |
 | `01` | Variables | [view](web/example/variables.js) |
 | `02` | Strings | [view](web/example/strings.js) |
-| `03` | Números | [view]() |
-| `04` | Operadores | [view]() |
-| `05` | Booleanos | [view]() |
-| `06` | Objetos | [view]() |
-| `07` | Arrays | [view]() |
-| `08` | Funciones | [view]() |
-| `09` | Estructuras de control | [view]() |
-| `10` | Iteradores | [view]() |
-| `11` | Arrays Métodos | [view]() |
+| `03` | Números | [view](web/example/numbers.js) |
+| `04` | Operadores | [view](web/example/operators.js) |
+| `05` | Booleanos | [view](web/example/booleans.js) |
+| `06` | Objetos | [view](web/example/objects.js) |
+| `07` | Arrays | [view](web/example/arrays.js) |
+| `08` | Funciones | [view](web/example/functions.js) |
+| `09` | Estructuras de control | [view](web/example/control_structures.js) |
+| `10` | Iteradores | [view](web/example/iterators.js) |
+| `11` | Arrays Métodos | [view](web/example/arrays_methods.js) |
