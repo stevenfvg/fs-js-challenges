@@ -3,9 +3,10 @@
 <img alt="JavaScript course from scratch and with projects" src="https://res.cloudinary.com/dozvvpar9/image/upload/v1699231920/js-modern-course/course-cover_ko9zas.jpg" width="500" />
 
 # Desafíos de JavaScript FullStack
-
-Este repositorio es una guía completa para dominar el desarrollo **FullStack** con el stack **PERN** de *JavaScript*. Aquí encontrarás una amplia gama de proyectos, desde aplicaciones Web robustas construidas con el stack completo **PERN** hasta aplicaciones móviles nativas desarrolladas con **React Native** y **TypeScript**. Desde los fundamentos hasta desafíos avanzados, cada proyecto proporcionará una experiencia práctica para construir aplicaciones Web y móviles de alta calidad y escalabilidad, aprovechando los beneficios de TypeScript para una mayor seguridad de tipos y refactorización.
 </div>
+
+<p style="text-align: justify;">Este repositorio es una guía completa para dominar el desarrollo **FullStack** con el stack **PERN** de *JavaScript*. Aquí encontrarás una amplia gama de proyectos, desde aplicaciones Web robustas construidas con el stack completo **PERN** hasta aplicaciones móviles nativas desarrolladas con **React Native** y **TypeScript**. Desde los fundamentos hasta desafíos avanzados, cada proyecto proporcionará una experiencia práctica para construir aplicaciones Web y móviles de alta calidad y escalabilidad, aprovechando los beneficios de TypeScript para una mayor seguridad de tipos y refactorización.
+</p>
 
 ### 📋 Requisitos
 Antes de ejecutar los ejemplos, asegúrese de tener *Node.js* instalado en su sistema. Puede comprobar si *Node.js* está instalado ejecutando el siguiente comando en su terminal o símbolo del sistema:
