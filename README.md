@@ -50,3 +50,4 @@ node arrays_methods.js
 | `03` | Recorriendo el DOM | [view](web/example/dom/js/traversing.js) |
 | `04` | Eliminar elementos del DOM | [view](web/example/dom/js/remove_elements.js) |
 | `05` | Generar HTML con JavaScript | [view](web/example/dom/js/generate_elements.js) |
+| `06` | Events | [view](web/example/events/) |
