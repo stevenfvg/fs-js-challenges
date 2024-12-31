@@ -51,3 +51,45 @@ node arrays_methods.js
 | `04` | Eliminar elementos del DOM | [view](web/example/dom/js/remove_elements.js) |
 | `05` | Generar HTML con JavaScript | [view](web/example/dom/js/generate_elements.js) |
 | `06` | Eventos del DOM | [view](web/example/events/) |
+
+**Uso del LocalStorage en JavaScript**
+
+| # | Contenido | Código |
+| --- | --- | --- |
+| `01` | Obtener datos del LocalStorage | [view]() |
+| `02` | Eliminar y actualizar elementos del LocalStorage | [view]() |
+| `03` | Persistencia de datos | [view]() |
+
+## 🔥 Ejemplos avanzados
+
+| # | Contenido | Código |
+| --- | --- | --- |
+| `01` | Gestión de fechas usando MomentJS | [view]() |
+| `02` | Prototypes | [view]() |
+| `03` | Programación Orientada a Objetos | [view]() |
+| `04` | Sets Maps y Symbols | [view]() |
+| `05` | Módulos | [view]() |
+| `06` | IndexedDB | [view]() |
+| `07` | CRM con IndexedDB | [view]() |
+| `08` | Callbacks | [view]() |
+| `09` | Promises | [view]() |
+
+**Uso de API's en JavaScript**
+
+| # | Contenido | Código |
+| --- | --- | --- |
+| `01` | Notification API | [view]() |
+| `02` | Intersection Observer | [view]() |
+| `03` | Detectar si hay conexión a internet o no | [view]() |
+| `04` | Ejecutar pantalla completa | [view]() |
+| `05` | Detectar cuando estamos viendo la página web actual | [view]() |
+| `06` | Speech API | [view]() |
+| `07` | FETCH API | [view]() |
+| `08` | Consultar un JSON | [view]() |
+| `09` | Try Catch | [view]() |
+| `10` | Async Await | [view]() |
+
+
+
+
+
