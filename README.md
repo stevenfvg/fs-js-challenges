@@ -45,49 +45,43 @@ node arrays_methods.js
 
 | # | Contenido | Código |
 | --- | --- | --- |
-| `01` | Obtener elementos del DOM | [view](web/example/dom/js/get_elements.js) |
-| `02` | Modificar elementos DOM | [view](web/example/dom/js/modify_elements.js) |
-| `03` | Recorriendo el DOM | [view](web/example/dom/js/traversing.js) |
-| `04` | Eliminar elementos del DOM | [view](web/example/dom/js/remove_elements.js) |
-| `05` | Generar HTML con JavaScript | [view](web/example/dom/js/generate_elements.js) |
-| `06` | Eventos del DOM | [view](web/example/events/) |
-
-**Uso del LocalStorage en JavaScript**
-
-| # | Contenido | Código |
-| --- | --- | --- |
-| `01` | Obtener datos del LocalStorage | [view]() |
-| `02` | Eliminar y actualizar elementos del LocalStorage | [view]() |
-| `03` | Persistencia de datos | [view]() |
+| `12` | Obtener elementos del DOM | [view](web/example/dom/js/get_elements.js) |
+| `13` | Modificar elementos DOM | [view](web/example/dom/js/modify_elements.js) |
+| `14` | Recorriendo el DOM | [view](web/example/dom/js/traversing.js) |
+| `15` | Eliminar elementos del DOM | [view](web/example/dom/js/remove_elements.js) |
+| `16` | Generar HTML con JavaScript | [view](web/example/dom/js/generate_elements.js) |
+| `17` | Eventos en el DOM | [view](web/example/events/) |
+| `18` | 🎯 Desafío 1 - Manipulación del DOM y condicionales | [view](web/projects/challenge-1/) |
 
 ## 🔥 Ejemplos avanzados
 
 | # | Contenido | Código |
 | --- | --- | --- |
-| `01` | Gestión de fechas usando MomentJS | [view]() |
-| `02` | Prototypes | [view]() |
-| `03` | Programación Orientada a Objetos | [view]() |
-| `04` | Sets Maps y Symbols | [view]() |
-| `05` | Módulos | [view]() |
-| `06` | IndexedDB | [view]() |
-| `07` | CRM con IndexedDB | [view]() |
-| `08` | Callbacks | [view]() |
-| `09` | Promises | [view]() |
+| `01` | Persistencia de datos con LocalStorage | [view]() |
+| `02` | Gestión de fechas usando MomentJS | [view]() |
+| `03` | Prototypes | [view]() |
+| `04` | Programación Orientada a Objetos | [view]() |
+| `05` | Sets Maps y Symbols | [view]() |
+| `06` | Módulos | [view]() |
+| `07` | IndexedDB | [view]() |
+| `08` | CRM con IndexedDB | [view]() |
+| `09` | Callbacks | [view]() |
+| `10` | Promises | [view]() |
 
 **Uso de API's en JavaScript**
 
 | # | Contenido | Código |
 | --- | --- | --- |
-| `01` | Notification API | [view]() |
-| `02` | Intersection Observer | [view]() |
-| `03` | Detectar si hay conexión a internet o no | [view]() |
-| `04` | Ejecutar pantalla completa | [view]() |
-| `05` | Detectar cuando estamos viendo la página web actual | [view]() |
-| `06` | Speech API | [view]() |
-| `07` | FETCH API | [view]() |
-| `08` | Consultar un JSON | [view]() |
-| `09` | Try Catch | [view]() |
-| `10` | Async Await | [view]() |
+| `11` | Notification API | [view]() |
+| `12` | Intersection Observer | [view]() |
+| `13` | Detectar si hay conexión a internet o no | [view]() |
+| `14` | Ejecutar pantalla completa | [view]() |
+| `15` | Detectar cuando estamos viendo la página web actual | [view]() |
+| `16` | Speech API | [view]() |
+| `17` | FETCH API | [view]() |
+| `18` | Consultar un JSON | [view]() |
+| `19` | Try Catch | [view]() |
+| `20` | Async Await | [view]() |
 
 
 
